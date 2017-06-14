@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Newspaper_AR" size="50.000000 70.685486" />
+    <ImageTarget name="pokemon_qr" size="50.000000 88.953491" />
+    <ImageTarget name="pokemon_noqr" size="50.000000 88.953491" />
+    <ImageTarget name="newspaper" size="300.000000 203.750000" />
+    <ImageTarget name="Mavshack" size="50.000000 14.814815" />
+    <ImageTarget name="poster" size="100.000000 142.760422" />
+    <ImageTarget name="stones" size="50.000000 35.000000" />
+  </Tracking>
+</QCARConfig>
